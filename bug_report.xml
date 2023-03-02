@@ -1,1 +1,14 @@
-
+<req document="Bug report">
+<field name="Bug Name">Application crashes upon clicking the SAVE button while creating a new user</field>
+<field name="Bug ID">1</field>
+<field name="Area Path">USERS menu -> New Users</field>
+<field name="Build Number">5.0.1</field>
+<field name="Severity">HIGH</field>
+<field name="Priority">HIGH</field>
+<field name="Assigned to">Developer-Alex</field>
+<field name="Reported By">Stanislav</field>
+<field name="Reported On">2023-03-01</field>
+<field name="Status">New</field>
+<field name="Environment">mcOS Monterey 12.5</field>
+<field name="Description">Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application</field>
+</req>
